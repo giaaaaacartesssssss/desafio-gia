@@ -1,0 +1,60 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin: 32px 0 10px
+}
+
+.barra {
+    height: 70px;
+    padding: 0 20px;
+    background: #183158;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    color: #34d399;
+}
+
+.enlaces a {
+    color: white;
+}
+
+.boton {
+    padding: 8px 16px;
+    background: #34d399;
+    color: #1e293b;
+}
+
+.podio {
+    height: 220px;
+    background: #1e293b;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.puesto {
+    width: 90px;
+    background: #fcd34d;
+    text-align: center;
+}
+
+.plata {
+    height: 100px;
+}
+
+.oro {
+    height: 150px;
+}
+
+.bronce {
+    height: 60px;
+}
